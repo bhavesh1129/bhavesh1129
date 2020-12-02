@@ -1,9 +1,10 @@
 ### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh!</a>👋
 
-<!--
-**bhavesh1129/bhavesh1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
+<a href="https://github.com/bhavesh1129 "><i class="fab fa-github fa-2x "></i></a> &nbsp;
+<a href="https://www.instagram.com/bhavesh_1129/ "><i class="fab fa-instagram fa-2x"></i></a> &nbsp;
+<a href="https://www.linkedin.com/in/bhavesh-garg-3728371a0/ "><i class="fab fa-linkedin fa-2x"></i></a> &nbsp;
+<a href="https://twitter.com/bhavesh75630744 "><i class="fab fa-twitter-square fa-2x"></i></a> &nbsp;
+<a href="mailto:bhaveshgarg151@gmail.com"><i class="icon4 fab far fa-envelope fa-2x"></i></a><br><br>
 
 - 🔭 I’m currently working on Web-Development Project
 - 🌱 I’m currently learning Android Development
