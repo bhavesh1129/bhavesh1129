@@ -3,14 +3,13 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="26" width="26">
 </a>
 
+
 - 🔭 I’m currently working on <a href="https://bhavesh1129.github.io/Yugantar-Website/">Yugantar Website</a>
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Web-Development Project
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend most of time in finding/searching new things.
-<!--
-- 🤔 I’m looking for help with ...
--->
-![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=radical)
+
+![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=jolly)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact)](https://github.com/bhavesh1129/github-readme-stats)
