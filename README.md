@@ -16,3 +16,4 @@
 - 🤔 I’m looking for help with ...
 -->
 ![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact)](https://github.com/bhavesh1129/github-readme-stats)
