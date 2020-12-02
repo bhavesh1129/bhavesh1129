@@ -1,14 +1,14 @@
 ### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh!</a>👋
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+<a href=""><img src="https://img.icons8.com/ios-glyphs/33/000000/twitter-squared.png"/></a>            <a href=""><img src="https://img.icons8.com/metro/26/000000/facebook.png"/></a>            <a href=""><img src="https://img.icons8.com/material/28/000000/instagram.png"/></a>            <img src="https://img.icons8.com/material/32/000000/linkedin--v1.png"/>            <a href="https://dev.to/bhavesh1129">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="26" width="26">
+</a>
 
-- 🔭 I’m currently working on Web-Development Project
+- 🔭 I’m currently working on <a href="https://bhavesh1129.github.io/Yugantar-Website/">Yugantar Website</a>
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Web-Development Project
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to spend most of thing in finding/searching something different
+- ⚡ Fun fact: I like to spend most of time in finding/searching new things.
 <!--
 - 🤔 I’m looking for help with ...
 -->
