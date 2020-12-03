@@ -16,3 +16,4 @@
 
 ![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=jolly)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats)
+[![Bhavesh Garg's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/bhavesh1129)
