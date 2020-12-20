@@ -8,7 +8,7 @@
 -->
 
 - 🔭 I’m currently working on <a href="https://bhavesh1129.github.io/Yugantar-Website/">Yugantar Website</a>
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning **MERN STACK**
 - 👯 I’m looking to collaborate on Web-Development Project
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
