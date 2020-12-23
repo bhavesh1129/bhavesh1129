@@ -14,6 +14,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend most of time in finding/searching new things.
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+
 ![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=jolly)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats)
 
