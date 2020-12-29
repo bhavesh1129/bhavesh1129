@@ -3,7 +3,7 @@
 ### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh!</a>👋
 
 <!--  <img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
-<a href="https://dev.to/bhavesh1129"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="26" width="26"> </a> -->
+<a href="https://dev.to/bhavesh1129"> -->
 
 - 🔭 I’m currently working on <a href="https://bhavesh1129.github.io/Yugantar-Website/">Yugantar Website</a>
 - 🌱 I’m currently learning **MERN STACK**
@@ -17,6 +17,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="26" width="26"> </a>
 <br />
 
 ### Languages and Tools:
