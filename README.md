@@ -6,8 +6,8 @@
 <a href="https://dev.to/bhavesh1129"> -->
 
 - 🔭 I’m currently working on <a href="https://www.folware.com/">Folware Website</a>
-- 🌱 I’m currently learning **MERN STACK**
-- 👯 I’m looking to collaborate on Web-Development Project
+- 🌱 I’m currently learning **MERN STACK.**
+- 👯 I’m looking to collaborate on Web-Development Project.
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend most of time in finding/searching new things.
