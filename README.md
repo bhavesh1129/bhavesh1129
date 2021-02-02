@@ -1,6 +1,6 @@
 <img src="https://github.com/bhavesh1129/bhavesh1129/blob/main/Hello%20World!.png"/>
 
-### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh!</a>👋
+### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh Garg!</a>👋
 
 <!--  <img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 <a href="https://dev.to/bhavesh1129"> -->
