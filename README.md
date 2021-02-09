@@ -1,4 +1,4 @@
-<img src="https://github.com/bhavesh1129/bhavesh1129/blob/main/Hello%20World!.png"/>
+<img src="https://github.com/bhavesh1129/bhavesh1129/blob/main/bgVideo.gif"/>
 
 ### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh Garg!</a>👋
 
