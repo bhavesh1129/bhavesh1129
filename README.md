@@ -6,7 +6,7 @@
 <a href="https://dev.to/bhavesh1129"> -->
 
 - 🔭 I’m currently working on **Myself**.
-- 🌱 I’m currently learning **MERN STACK.**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Java.**
 - 👯 I’m looking to collaborate on Web-Development Project.
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
@@ -17,6 +17,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
 ![](https://komarev.com/ghpvc/?username=bhavesh1129&color=blueviolet)
@@ -45,3 +46,4 @@
 [instagram]: https://www.instagram.com/bhavesh_1129/
 [linkedin]: https://www.linkedin.com/in/bhavesh-garg-3728371a0/
 [twitter]: https://twitter.com/bhavesh1129
+[facebook]: https://www.facebook.com/Bhavesh1129/
