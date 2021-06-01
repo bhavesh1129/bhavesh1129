@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Web-Development Project.
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to spend most of my time finding/searching for new things.
+- ⚡ Fun fact: I like to spend my most of the time in finding/searching for new things.
 
 ### Connect with me:
 
