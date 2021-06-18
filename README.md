@@ -44,6 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats)
 
 [instagram]: https://www.instagram.com/bhavesh_1129/
-[linkedin]: https://www.linkedin.com/in/bhavesh-garg-3728371a0/
+[linkedin]: https://www.linkedin.com/in/bhavesh1129/
 [twitter]: https://twitter.com/bhavesh1129
 [facebook]: https://www.facebook.com/Bhavesh1129/
