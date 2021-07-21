@@ -18,6 +18,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
 ![](https://komarev.com/ghpvc/?username=bhavesh1129&color=blueviolet)
@@ -47,3 +49,5 @@
 [linkedin]: https://www.linkedin.com/in/bhavesh1129/
 [twitter]: https://twitter.com/bhavesh1129
 [facebook]: https://www.facebook.com/Bhavesh1129/
+[leetcode]: https://leetcode.com/bhavesh_1129/
+[hackerrank]: https://www.facebook.com/Bhavesh1129/
