@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Myself**.
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java.**
-- 👯 I’m looking to collaborate on Web-Development Project.
+- 👯 I’m looking to collaborate on Web-Development Project.https://github.com/bhavesh1129/bhavesh1129/blob/main/bgVideo.gif
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend my most of the time in finding/searching for new things.
@@ -18,6 +18,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
