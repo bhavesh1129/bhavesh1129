@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Myself**.
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java.**
-- 👯 I’m looking to collaborate on Web-Development Project.https://github.com/bhavesh1129/bhavesh1129/blob/main/bgVideo.gif
+- 👯 I’m looking to collaborate on Web-Development Project.
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend my most of the time in finding/searching for new things.
