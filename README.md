@@ -1,6 +1,6 @@
-<img src="https://github.com/bhavesh1129/bhavesh1129/blob/main/bgVideo.gif"/>
+## Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh Garg!</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-### Hi there, I'm <a href="https://bit.ly/bhavesh1129">Bhavesh Garg!</a>👋
+[![Bhavesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavesh1129&theme=xcode)](https://git.io/bhavesh1129)
 
 <!--  <img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 <a href="https://dev.to/bhavesh1129"> -->
@@ -35,16 +35,18 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
 <br />
 
----
-![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=jolly)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats)
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh1129&theme=tokyonight" />
+</p>
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats) 
+-->
 
 [instagram]: https://www.instagram.com/bhavesh_1129/
 [linkedin]: https://www.linkedin.com/in/bhavesh1129/
