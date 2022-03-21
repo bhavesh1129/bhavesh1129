@@ -56,4 +56,4 @@
 [twitter]: https://twitter.com/bhavesh1129
 [facebook]: https://www.facebook.com/Bhavesh1129/
 [leetcode]: https://leetcode.com/bhavesh_1129/
-[hackerrank]: https://www.hackerrank.com/bhaveshgarg151/
+[hackerrank]: https://www.hackerrank.com/bhavesh_1129/
