@@ -20,7 +20,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="23" width="26"> </a>
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="24" width="26"> </a>
 &nbsp;&nbsp;&nbsp;[<img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/grav.svg" />][binarysearch]
 <br /><br/>
 
