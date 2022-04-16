@@ -1,6 +1,6 @@
 ## Hi there, I'm <a href="https://www.bhaveshgarg.live/">Bhavesh!</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Bhavesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavesh1129&theme=xcode)](https://git.io/bhavesh1129)
+[![Bhavesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavesh1129&theme=react-dark)](https://git.io/bhavesh1129)
 
 <!--  <img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 <a href="https://dev.to/bhavesh1129"> -->
