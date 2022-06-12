@@ -20,6 +20,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="24" width="26"> </a>
@@ -60,6 +61,7 @@
 [instagram]: https://www.instagram.com/bhavesh_1129/
 [linkedin]: https://www.linkedin.com/in/bhavesh1129/
 [twitter]: https://twitter.com/bhavesh1129
+[telegram]: https://t.me/allInOneInterviewPrep
 [facebook]: https://www.facebook.com/Bhavesh1129/
 [leetcode]: https://leetcode.com/bhavesh_1129/
 [hackerrank]: https://www.hackerrank.com/bhavesh_1129/
