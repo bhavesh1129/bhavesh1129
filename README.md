@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://www.bhaveshgarg.live/">Bhavesh Garg!</a>
+## Hi there, I'm <a href="https://www.bhaveshgarg.live/">Bhavesh Garg👋🏼!</a>
 
 <!-- <a href="https://www.bhaveshgarg.live/">Bhavesh!</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 
