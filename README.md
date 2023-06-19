@@ -8,7 +8,7 @@
 <a href="https://dev.to/bhavesh1129"> -->
 
 - 🔭 I’m currently working on **Myself**
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java.**
+- 🌱 I’m currently learning **LAMP Stack.**
 - 👯 I’m looking to collaborate on Web-Development Project.
 - 💬 Ask me about anything <a href="https://github.com/bhavesh1129/bhavesh1129/issues">here!</a>
 - 😄 Pronouns: He/His
