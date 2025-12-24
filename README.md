@@ -9,7 +9,7 @@
 
 - 🔭 Currently focused on personal growth and development
 - 🌱 Exploring Django & Go to enhance my skills
-- 👯 Open to collaborating on web development projects
+- 👯 Open to collaborating on AI web dev projects
 - 💬 Feel free to ask me anything here
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy spending my time discovering and learning new things
