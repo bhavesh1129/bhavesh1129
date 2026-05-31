@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<a href="https://dev-bhavesh.vercel.app"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/bhavesh1129"><img src="https://img.shields.io/badge/--0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/bhavesh1129"><img src="https://img.shields.io/badge/--FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="https://twitter.com/bhavesh1129"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-bhavesh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh1129)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhavesh1129)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bhavesh1129)
 
 </div>
 
