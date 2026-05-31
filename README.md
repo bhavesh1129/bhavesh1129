@@ -87,10 +87,9 @@ type Engineer struct {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhavesh1129&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/bhavesh1129)
 
-<br/><br/>
+<br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavesh1129&theme=tokyo-night&hide_border=true&area=true&color=6366f1&line=8b5cf6&point=06b6d4)](https://github.com/bhavesh1129)
 
