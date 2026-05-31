@@ -1,72 +1,88 @@
-## Hi there, I'm Bhavesh Garg👋🏼!
+<div align="center">
 
-<!-- <a href="https://www.bhaveshgarg.live/">Bhavesh!</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bhavesh+Garg;Software+Engineer+%40+Razorpay;Go+%7C+TypeScript+%7C+React;Building+tools+for+AI+agents" alt="Typing SVG" />
 
-[![Bhavesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavesh1129&theme=react-dark)](https://github.com/bhavesh1129/github-readme-activity-graph)
+<br/><br/>
 
-<!--  <img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
-<a href="https://dev.to/bhavesh1129"> -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-bhavesh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh1129)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhavesh1129)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bhavesh1129)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bhavesh1129)
 
-- 🔭 Currently focused on personal growth and development
-- 🌱 Exploring Django & Go to enhance my skills
-- 👯 Open to collaborating on AI web dev projects
-- 💬 Feel free to ask me anything here
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy spending my time discovering and learning new things
+</div>
 
-### Connect with me:
+---
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="24" width="26"> </a>
-&nbsp;&nbsp;&nbsp;[<img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/grav.svg" />][binarysearch]
-<br /><br/>
+## About
 
-![](https://komarev.com/ghpvc/?username=bhavesh1129&color=blueviolet)
+Software Engineer at **Razorpay** · Bengaluru, India
 
-### Languages and Tools:
+I build developer tooling, AI infrastructure, and full-stack products. Currently deep in Go and TypeScript — I care about tools that get out of a developer's way. I created **[Axon](https://github.com/bhavesh1129/Axon)**, a persistent knowledge layer for AI coding agents.
 
-<!-- <div style="display: flex;>
-  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/grav.svg" />
-</div> -->
- 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="TailwindCSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br />
-<br />
+- 🔨 **Building:** [Axon](https://github.com/bhavesh1129/Axon) — token-efficient context retrieval for AI agents (MCP · BM25 · semantic embeddings · 296 tests)
+- 🌱 **Exploring:** Go, distributed systems, AI-native developer tooling
+- 🤝 **Open to:** AI web dev collaborations
+- 💬 **Ask me about:** React, Django, interview prep, system design
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh1129&theme=tokyonight" />
-</p>
+---
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats) 
--->
+## Tech Stack
 
-[instagram]: https://www.instagram.com/bhavesh_1129/
-[linkedin]: https://www.linkedin.com/in/bhavesh1129/
-[twitter]: https://twitter.com/bhavesh1129
-[telegram]: https://t.me/allInOneInterviewPrep
-[facebook]: https://www.facebook.com/Bhavesh1129/
-[leetcode]: https://leetcode.com/bhavesh_1129/
-[hackerrank]: https://www.hackerrank.com/bhavesh_1129/
-[binarysearch]: https://binarysearch.com/@/bhavesh1129
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## Featured
+
+<div align="center">
+
+[![Axon](https://github-readme-stats.vercel.app/api/pin/?username=bhavesh1129&repo=Axon&theme=tokyonight&hide_border=true)](https://github.com/bhavesh1129/Axon)
+[![Interview Prep](https://github-readme-stats.vercel.app/api/pin/?username=bhavesh1129&repo=All-In-One-Interview-Preparation&theme=tokyonight&hide_border=true)](https://github.com/bhavesh1129/All-In-One-Interview-Preparation)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=bhavesh1129&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best tool is the one that gets out of your way."*
+
+![Profile views](https://komarev.com/ghpvc/?username=bhavesh1129&color=6366F1&style=flat-square&label=profile+views)
+
+</div>
