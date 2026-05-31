@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-bhavesh.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh1129)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhavesh1129)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bhavesh1129)
+<a href="https://dev-bhavesh.vercel.app"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/bhavesh1129"><img src="https://img.shields.io/badge/--0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/bhavesh1129"><img src="https://img.shields.io/badge/--FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="https://twitter.com/bhavesh1129"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white" /></a>
 
 </div>
 
@@ -87,16 +87,12 @@ type Engineer struct {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=bhavesh1129&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavesh1129&theme=tokyo-night&hide_border=true&area=true)](https://github.com/bhavesh1129)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavesh1129&theme=tokyo-night&hide_border=true&area=true&color=6366f1&line=8b5cf6&point=06b6d4)](https://github.com/bhavesh1129)
 
 </div>
 
