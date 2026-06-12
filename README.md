@@ -21,7 +21,7 @@ type Engineer struct {
     Role     string   // "SDE I @ Razorpay · Bengaluru"
     Focus    []string // Distributed Systems · Backend · Data Engineering · AI Tooling
     Past     []string // DeHaat · AarogyaAI · Gojek Tech
-    Degree   string   // "B.E. Computer Science — CGPA 9.88 · Chitkara University"
+    Degree   string   // "B.E. Computer Science"
 }
 ```
 
