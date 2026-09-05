@@ -1,0 +1,3 @@
+Hi, I am Ruth.
+I am learning Git and GitHub.
+This is my first contribution.
